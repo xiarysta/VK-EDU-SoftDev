@@ -1,6 +1,6 @@
 # Задание №1
 
-### **Бизнес модель:** B2C (Business-to-Consumer)
+#### **Бизнес модель:** B2C (Business-to-Consumer)
 
 ## Elevator Pitch
 
