@@ -1,4 +1,8 @@
-# Elevator Pitch
+# Задание №1
+
+### **Бизнес модель:** B2C (Business-to-Consumer)
+
+## Elevator Pitch
 
 ### uTravel — твоё путешествие, твои правила.
 
