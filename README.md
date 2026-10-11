@@ -18,3 +18,4 @@
 
 ## Lean Canvas
 
+<img width="1372" height="862" alt="image" src="https://github.com/user-attachments/assets/d07f21b3-8d0c-40e8-ba37-ff803d5e1480" />
