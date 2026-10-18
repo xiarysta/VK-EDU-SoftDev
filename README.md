@@ -193,3 +193,4 @@ LTV = 32 000 + 8 000 = **40 000 руб.**
 **uTravel — персональные путешествия без лишней рутины!**
 
 ## New Lean Canvas
+<img width="1327" height="813" alt="image" src="https://github.com/user-attachments/assets/385c799f-115d-4f16-8541-7b190146b95a" />
