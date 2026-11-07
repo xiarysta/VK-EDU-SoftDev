@@ -5,7 +5,7 @@
 
 [VK education](https://education.vk.company/profile/nik.kulakov/)
 
-# ДЗ-3
+# Задание №3
 
 ## Роли пользователей
 
