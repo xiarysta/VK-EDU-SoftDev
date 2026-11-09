@@ -14,7 +14,7 @@
 <img width="1337" height="887" alt="C1" src="https://github.com/user-attachments/assets/f34af31c-c48c-4d4c-85b3-71173159cbe2" />
 
 ### Уровень 2 — Контейнеры
-<img width="1542" height="911" alt="C2" src="https://github.com/user-attachments/assets/7d4e5bd4-01be-4062-9a1b-036b7c3dfce1" />
+<img width="1922" height="1342" alt="utravel-c2 drawio" src="https://github.com/user-attachments/assets/c95210d5-479e-47d0-8783-be7efcacaae1" />
 
 ## Стек технологий MVP
 
